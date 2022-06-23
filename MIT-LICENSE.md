@@ -1,4 +1,4 @@
-Copyright (c) 2011 InfinityScienceWorks, [http://www.zurb.com/](https://github.com/InfinityScienceWorks)
+Copyright (c) 2011 InfinityScienceWorks, [link](https://github.com/InfinityScienceWorks)
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
