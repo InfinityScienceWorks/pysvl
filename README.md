@@ -3,5 +3,11 @@ PySVL is a python library for space vehicles, rockets and satellite for their de
 
 [pypi link](https://pypi.org/project/pysvl)
 
+----
+
+<img src='https://user-images.githubusercontent.com/11718525/135937807-fd3e0fd2-a31a-47a4-90c6-b0bb1d0704d4.png' height='251px' width='auto'>
+
+build using [python](https://www.python.org/) 3.10, runs on python >= 3.6
+
 🚀 🚀 🚀
 🔥 🔥 🔥
