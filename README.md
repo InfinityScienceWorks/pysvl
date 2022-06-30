@@ -7,6 +7,7 @@ PySVL is a python library for space vehicles, rockets and satellite for their de
 ## links
 
 - [pypi link](https://pypi.org/project/pysvl)
+- main website of Infinity Science Works is also comming
 - docs (comming soon)
 - [docs on github](https://github.com/InfinityScienceWorks/pysvl/wiki)
 - [github](https://github.com/InfinityScienceWorks/pysvl)
