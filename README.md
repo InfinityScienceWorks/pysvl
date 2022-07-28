@@ -14,7 +14,7 @@ PySVL is a python library for space vehicles, rockets and satellite for their de
 - extras
   - [libraries.io](https://libraries.io/pypi/pysvl)
 
-```version 1.0.1 is near launch```
+```version 1.0.1 is delayed, will launch before mid 2023```
 
 ----
 
